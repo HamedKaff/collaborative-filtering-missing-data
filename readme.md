@@ -14,9 +14,9 @@ However, if running is needed, then all what needs to be done is:
 
 
  
-The zip file contains 4 files
-1- CollaborativeFiltering.ipynb
-2- readme.md
-3- the data folder (ml-100k).
+The zip file contains 4 files <br/>
+1- CollaborativeFiltering.ipynb <br/>
+2- readme.md <br/>
+3- the data folder (ml-100k).<br/>
 4- the pdf file that contains the actual research, mathematical equations, and theoretical solution that was implemented in the ipynb file.
 
