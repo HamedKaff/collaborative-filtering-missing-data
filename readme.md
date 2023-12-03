@@ -1,22 +1,22 @@
 Hamed Alkaff
-s3708483
+
 
 #Instructions:
-This file includes all the code for the assignment.
+This file includes all the code for the project.
 The code has already been run, and all outputs are displayed.
 
 However, if running is needed, then all what needs to be done is:
-1. MAKE SURE THE DATASETS FOLDER "ml-100k" IS ADDED WITHIN THE ZIP FOLDER OR DIRECTORY
+1. Make sure the datasets folder "ml-100k" is added within the zip folder or directory.
 
-2. INSIDE THE NOTEBOOK FILE, FROM THE NAVIGATION BAR (main Menu), GO TO KERNEL -> RESTART & RUN ALL.
+2. Inside the notebook file, from the navigation bar, go to kernel, then hit restart & run all. 
 
-3. ALL OUTPUTS WILL BE DISPLAYED
+3. All output will be displayed.
 
 
  
 The zip file contains 4 files
-1- Assignment3.ipynb
+1- CollaborativeFiltering.ipynb
 2- readme.md
 3- the data folder (ml-100k).
-4- the pdf file that contains the actual solution that was implemented.
+4- the pdf file that contains the actual research, mathematical equations, and theoretical solution that was implemented in the ipynb file.
 
